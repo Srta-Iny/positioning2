@@ -1,0 +1,26 @@
+/* Inserta tu CSS aqui */
+button{
+	margin: 10px;
+}
+.azul{
+	width: 400px;
+	height: 400px;
+	background-color: #1C40F9;
+	position: static;
+}
+.verde{
+	width: 200px;
+	height: 200px;
+	background-color: #2A8023;
+	position:relative;
+	left:100px;
+	top:100px;
+}
+.negro{
+	width: 100px;
+	height: 100px;
+	background-color: #000;
+	position: absolute;
+	top:8px;
+	left:8px;
+}

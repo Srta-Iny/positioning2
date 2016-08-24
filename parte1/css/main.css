@@ -1,0 +1,26 @@
+/* Inserta tu CSS aqui */
+button{
+	margin: 10px;
+}
+.rojo{
+	width: 400px;
+	height: 400px;
+	background-color: #F91C1C;
+	position: static;
+}
+.morado{
+	width: 200px;
+	height: 200px;
+	background-color: #6903B0;
+	position:absolute;
+	left:100px;
+	top:100px;
+}
+.amarillo{
+	width: 100px;
+	height: 100px;
+	background-color: #F9EC1C;
+	position: absolute;
+	top:0;
+	left:0;
+}
