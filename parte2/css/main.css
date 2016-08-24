@@ -1,6 +1,14 @@
 /* Inserta tu CSS aqui */
-button{
+.boton{
 	margin: 10px;
+	display: block;
+	width: 100px;
+	padding:10px 0;
+	border-radius: 5px;
+	background-color: #FFC0F2;
+	text-align: center;
+	border:1px solid #DF8DFF;
+	font-family: Verdana;
 }
 .azul{
 	width: 400px;
